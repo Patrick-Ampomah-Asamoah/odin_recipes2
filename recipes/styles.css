@@ -1,13 +1,24 @@
 img {
     height: auto;
     width:600px;
+    border: 1px solid whitesmoke;
+    padding-left: 160px;
+    padding-right: 160px;
+    background-color: rgb(212, 211, 211);
+    margin-left: 200px;
+    margin-right: 200px;
 }
 .hello {
     color: black;
     font-style: oblique;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
-div {
-    background-color: rgb(155, 146, 163);
+body {
+    background-color: rgb(225, 213, 236);
+}
+
+#hey {
+    font-size: 19px;
 }
