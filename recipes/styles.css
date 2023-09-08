@@ -1,0 +1,13 @@
+img {
+    height: auto;
+    width:600px;
+}
+.hello {
+    color: black;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+    background-color: rgb(155, 146, 163);
+}
